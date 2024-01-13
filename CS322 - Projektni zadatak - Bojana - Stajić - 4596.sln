@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS322 - Projektni zadatak - Bojana - Stajić - 4596", "CS322 - Projektni zadatak - Bojana - Stajić - 4596.csproj", "{F1B46FCF-D3DD-4C9C-AC6E-EDDFE3F77B65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1B46FCF-D3DD-4C9C-AC6E-EDDFE3F77B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B46FCF-D3DD-4C9C-AC6E-EDDFE3F77B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B46FCF-D3DD-4C9C-AC6E-EDDFE3F77B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B46FCF-D3DD-4C9C-AC6E-EDDFE3F77B65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6B929D5-0C7D-46DC-B0A9-120E57A77132}
+	EndGlobalSection
+EndGlobal
